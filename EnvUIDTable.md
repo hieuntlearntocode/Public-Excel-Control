@@ -1,4 +1,4 @@
-UID |
----|
-ASUS |
-SampleName |
+UID | PC
+---|---|
+ASUS | NTH-ASUS-CODING |
+SampleName | SamplePC |

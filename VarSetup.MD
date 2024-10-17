@@ -1,4 +1,4 @@
 Action | Execute |
 ---|---|
-ExtractCont | 0 |
-UploadCont | 0 |
+int_WB_Log_Count_Limit | 100 |
+bln_Cont_Upload | 0 |
